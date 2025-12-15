@@ -1,0 +1,1 @@
+vless://eed7fa1e-d457-461c-d088-f5c8bca3f837@157.230.252.148:17297/?type=tcp&encryption=none&flow=#Onimusha%20Main%F0%9F%87%B8%F0%9F%87%AC
